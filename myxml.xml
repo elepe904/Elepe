@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="mystyles2.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Victoria Brunsbergensis </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>by Johannes Columbus (1586−1663), part of Samuel Älf's collection, Linköping Diocesan Library</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript in Linköping Diocesan Library</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <lg>
+         <l>Ista libellorum multo Brunsberga suppellex</l>
+         <l>Tempore parta tibi, nuper quam miles ademit</l>
+         <l>cautibus  eductus nostris, ubi sit, fortasse requiris.</l>
+         <l>Desine, quod quaeris paucis, adverte, docebo.</l>
+         <l n="5">Svecigenum in patria praeclari nominis Urbs est, 5</l>
+         <l>Ubbone,  ut perhibent, ante Abrae tempora, quarto</l>
+         <l>Rege Salam ad fluviam spacio fundata patenti,</l>
+         <l>Dis superis multisque sacris augustus ut esset</l>
+         <l>In Regno locus et dilecta sedes Monarchis.</l>
+         <l n="10"> Propterea semper Regali munere felix 10</l>
+         <l>Extitit, at nostro hoc omni felicior aevo.</l>
+         <l>Hic ubi nubiferas alte est educta sub auras</l>
+         <l>Ingentis precii libros quae continet aedes.</l>
+         </lg>
+         <lg>
+         <l>Et duplex ample librorum conficitur grex.</l>
+         <l n="15">Dividuus paries omnes qui ponitur inter 15</l>
+         <l>Foetibus a sanis scabiosa peculia  nobis</l>
+         <l>Plurima quae data sunt abs te Brunsberga repellit.</l>
+         </lg>
+         <lg>
+         <l>Stat tamen illa nivis boreae secura vel imbris,</l>
+         <l>Et quoties aliquis veniens novus advena spectat,</l>
+         <l n="20">Ah quantus, clamat, librorum accrevit acervus! 20</l>
+         <l>Nos, ut mellificae volucres per prata volantes</l>
+         <l>Nunc hos nunc alios delibant ordine flores,</l>
+         <l>Dulce mel et sanum comedunt, aconita sed horrent,</l>
+         <l>Utile quodcunque in nostros convertimus usus.</l>
+         </lg>
+      </body>
+  </text>
+</TEI>
