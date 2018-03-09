@@ -1,0 +1,15 @@
+title {
+  color:white;
+  background-color: purple;
+  border: 1px solid black;
+  }
+p {
+   color: black;
+  background-color: white;
+  border: 1px solid black; 
+}
+* {
+
+display: block;
+}
+lg{padding: 5px}
